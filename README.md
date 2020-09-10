@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Hi there I'm Emmanuel
 
-<!--
-**EmmanuelEffi/EmmanuelEffi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a lover of Jesus, frontend developer and UI Designer based in Lagos, Nigeria. 
+I love making the web easier to navigate and use for the average human.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Front End Development
+- 🌱 I’m currently learning Javascript and client-side APIs
+- 👯 I’m looking to learn about the backend! 
+- 🤔 I’m looking for help with really anything you think can improve me
+- 💬 Ask me about: HTML, CSS, Javascript, React
+- 📫 How to reach me: https://instagram.com/_effiemmanuel, +2348118412819
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am a child of God clearly disguised as a frontend developer!
